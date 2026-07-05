@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Kanishka Saxena 👋</h1>
 
-<h3 align="center">Full-Stack Developer | AI Engineer | Exploring Agentic AI & Cloud</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C7A7B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Engineer;Exploring+Agentic+AI+%26+Cloud;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   🎓 B.Tech CSE (2024–2028) &nbsp;|&nbsp; 📍 Bareilly, India &nbsp;|&nbsp; 🚀 Open to Internships
@@ -13,6 +17,7 @@
   <a href="mailto:kanishka.saxena255@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=kanishkasaxena09&style=for-the-badge&color=2C7A7B" alt="profile views" />
 </p>
 
 ---
@@ -24,6 +29,7 @@ I'm a Computer Science student who loves turning ideas into real, working produc
 - 🔭 Currently building: AI-powered and agentic applications
 - 🌱 Currently learning: Agentic AI workflows & AWS Cloud
 - 💬 Ask me about: React, FastAPI, TensorFlow/Keras, or full-stack architecture
+- 🤝 Looking to collaborate on: AI-powered web apps & open-source projects
 - ⚡ Fun fact: I turn photos into puzzles and quizzes into AI-generated experiences
 
 ---
@@ -89,6 +95,16 @@ I'm a Computer Science student who loves turning ideas into real, working produc
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasaxena09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkasaxena09&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanishkasaxena09&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
 ---
 
 <p align="center">💡 Open to Full-Stack Development & AI/ML internship opportunities — let's connect!</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/kanishkasaxena09">kanishkasaxena09</a></i></p>
