@@ -86,24 +86,7 @@ I'm a Computer Science student who loves turning ideas into real, working produc
 | 🚌 **Real-Time Bus Tracking System** | Live GPS tracking system with role-based dashboards (Admin, Driver, User) | React, FastAPI, Leaflet, Tailwind CSS |
 | 🌾 **Crop Disease Detection Tool** | AI platform analyzing leaf scans via a custom CNN model for real-time diagnosis | React, FastAPI, TensorFlow, Keras, MySQL |
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanishkasaxena09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasaxena09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkasaxena09&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanishkasaxena09&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
 
 <p align="center">💡 Open to Full-Stack Development & AI/ML internship opportunities — let's connect!</p>
 
