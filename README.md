@@ -6,10 +6,10 @@ B.Tech CSE student (2024–2028) based in Bareilly, India. Full-stack developer 
 
 I like building things end-to-end — from the frontend down to the AI models behind them. Currently learning agentic AI workflows and AWS Cloud, while working regularly with React, FastAPI, and TensorFlow/Keras.
 
-- 🔭 Currently building: AI-powered and agentic applications
-- 🌱 Currently learning: Agentic AI workflows & AWS Cloud
-- 💬 Ask me about: React, FastAPI, TensorFlow/Keras, or full-stack architecture
-- 🤝 Open to collaborating on: AI-powered web apps & open-source projects
+- Currently building: AI-powered and agentic applications
+- Currently learning: Agentic AI workflows & AWS Cloud
+- Ask me about: React, FastAPI, TensorFlow/Keras, or full-stack architecture
+- Open to collaborating on: AI-powered web apps & open-source projects
 
 ## Tech Stack
 
