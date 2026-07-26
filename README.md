@@ -1,4 +1,4 @@
-# Hi, I'm Kanishka Saxena 👋
+# Hi, I'm Kanishka Saxena 
 
 B.Tech CSE student (2024–2028) based in Bareilly, India. Full-stack developer with a growing focus on AI/ML, open to internship opportunities.
 
