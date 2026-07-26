@@ -1,90 +1,64 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=48&duration=1&pause=100000&color=1A1A1A&center=true&vCenter=true&width=500&height=100&lines=K+·+S" alt="Monogram" />
-
-<sub>─────────────────────────────</sub>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=30&duration=1&pause=100000&color=1A1A1A&center=true&vCenter=true&width=600&lines=KANISHKA+SAXENA" alt="Name" />
-
-<sub>FULL-STACK DEVELOPER &nbsp;•&nbsp; AI ENGINEER &nbsp;•&nbsp; B.TECH CSE '28</sub>
+<img src="./assets/header_animated.svg" width="100%"/>
 
 <br/>
 
-<sub>BAREILLY, INDIA &nbsp;·&nbsp; OPEN TO INTERNSHIPS</sub>
+<table>
+<tr>
+<td align="center">🎓<br/><sub><b>B.Tech CSE</b></sub><br/><sub>2024 – 2028</sub></td>
+<td align="center">📍<br/><sub><b>Bareilly</b></sub><br/><sub>India</sub></td>
+<td align="center">🚀<br/><sub><b>Open to</b></sub><br/><sub>Internships</sub></td>
+<td align="center">🧠<br/><sub><b>Focus</b></sub><br/><sub>AI / Full-Stack</sub></td>
+</tr>
+</table>
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1A1A?style=flat-square&logoColor=white)](https://linkedin.com/in/kanishka-saxena09)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-7873F5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-saxena09)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-1A1A1A?style=flat-square&logoColor=white)](mailto:kanishka.saxena255@gmail.com)
+[![Email](https://img.shields.io/badge/-Send_an_Email-FF6EC4?style=flat-square&logo=gmail&logoColor=white)](mailto:kanishka.saxena255@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-1A1A1A?style=flat-square&logoColor=white)](https://github.com/kanishkasaxena09)
+[![GitHub](https://img.shields.io/badge/-View_GitHub-42E8E0?style=flat-square&logo=github&logoColor=black)](https://github.com/kanishkasaxena09)
 
 </div>
 
 <br/>
 
-<p align="center">
-<sub>◆ ── ◆ ── ◆</sub>
-</p>
-
-<br/>
-
-<div align="center">
-<i>"I'd rather ship the thing than read another tutorial about it."</i>
-</div>
-
-<br/>
-
-## Profile
+## ✎ About
 
 I'm a Computer Science student who learns by building — full-stack products, AI tools, whatever the problem calls for. Every project below went from idea to something people can actually open and use. Presently occupied with agentic AI workflows and cloud infrastructure, while staying grounded in the fundamentals: React, FastAPI, and applied machine learning.
 
 <br/>
 
-<p align="center">
-<sub>◆ ── ◆ ── ◆</sub>
-</p>
-
-<br/>
-
-## Capabilities
+## ◆ Stack
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
 **Languages**
-
-JavaScript
-Python
-Java
-Dart
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,py,java,dart" />
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-**Interfaces**
-
-React · Flutter
-Tailwind CSS
-HTML / CSS
+**Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,html,css" />
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-**Systems**
-
-Node.js · FastAPI
-MySQL · MongoDB
+**Backend / Data**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,mongodb" />
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
 
-**Intelligence**
-
-TensorFlow · Keras
-OpenAI API · AWS
+**AI / Cloud**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,aws,opencv" />
 
 </td>
 </tr>
@@ -92,72 +66,42 @@ OpenAI API · AWS
 
 <br/>
 
-<p align="center">
-<sub>◆ ── ◆ ── ◆</sub>
-</p>
-
-<br/>
-
-## Selected Work
+## ◆ Projects
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-**I. AI Puzzle Quest**
-<br/>
-<sub>React · CSS · Vercel</sub>
-
-</td>
-<td width="40%" valign="top">
-
-Converts any uploaded photograph into a playable jigsaw puzzle in real time.
-[View →](https://jigsaw-puzzle-hxchi2rx2-kgithub255-6562s-projects.vercel.app)
+### 🧩 [AI Puzzle Quest](https://jigsaw-puzzle-hxchi2rx2-kgithub255-6562s-projects.vercel.app)
+Turns any uploaded photo into an interactive, playable jigsaw puzzle in real time.
+<br/><br/>
+<sub>`React` `CSS` `Vercel`</sub>
 
 </td>
-</tr>
-<tr><td colspan="2"><sub>─────────────────────────────────────────</sub></td></tr>
-<tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-**II. QuizMaster Pro**
-<br/>
-<sub>React · FastAPI · OpenAI API</sub>
-
-</td>
-<td width="40%" valign="top">
-
-Generates quiz questions dynamically by topic and difficulty using an LLM.
+### 🧠 QuizMaster Pro
+AI-powered quiz app that generates questions dynamically based on topic & difficulty.
+<br/><br/>
+<sub>`React` `FastAPI` `OpenAI API`</sub>
 
 </td>
 </tr>
-<tr><td colspan="2"><sub>─────────────────────────────────────────</sub></td></tr>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-**III. Real-Time Bus Tracking System**
-<br/>
-<sub>React · FastAPI · Leaflet · Tailwind</sub>
-
-</td>
-<td width="40%" valign="top">
-
-Live GPS tracking with role-based dashboards for Admin, Driver, and User.
+### 🚌 Real-Time Bus Tracking System
+Live GPS tracking system with role-based dashboards for Admin, Driver, and User.
+<br/><br/>
+<sub>`React` `FastAPI` `Leaflet` `Tailwind`</sub>
 
 </td>
-</tr>
-<tr><td colspan="2"><sub>─────────────────────────────────────────</sub></td></tr>
-<tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-**IV. Crop Disease Detection Tool**
-<br/>
-<sub>TensorFlow · Keras · FastAPI · MySQL</sub>
-
-</td>
-<td width="40%" valign="top">
-
-Custom CNN diagnoses crop disease from leaf scans in real time.
+### 🌾 Crop Disease Detection Tool
+AI platform analyzing leaf scans via a custom CNN for real-time diagnosis.
+<br/><br/>
+<sub>`TensorFlow` `Keras` `FastAPI` `MySQL`</sub>
 
 </td>
 </tr>
@@ -165,32 +109,17 @@ Custom CNN diagnoses crop disease from leaf scans in real time.
 
 <br/>
 
-<p align="center">
-<sub>◆ ── ◆ ── ◆</sub>
-</p>
-
-<br/>
-
-## Activity
+## ◆ Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkasaxena09&show_icons=true&hide_border=true&title_color=1A1A1A&icon_color=1A1A1A&text_color=555555&bg_color=00000000" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkasaxena09&hide_border=true&background=00000000&stroke=1A1A1A&ring=1A1A1A&fire=1A1A1A&currStreakLabel=1A1A1A" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkasaxena09&show_icons=true&hide_border=true&title_color=7873F5&icon_color=FF6EC4&text_color=555555&bg_color=00000000" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkasaxena09&hide_border=true&background=00000000&stroke=7873F5&ring=FF6EC4&fire=FF6EC4&currStreakLabel=7873F5" height="165"/>
 </div>
 
 <br/>
 
-<p align="center">
-<sub>◆ ── ◆ ── ◆</sub>
-</p>
-
 <div align="center">
-<br/>
 
-<sub>OPEN TO FULL-STACK & AI/ML INTERNSHIP OPPORTUNITIES</sub>
-
-<br/><br/>
-
-<sub>© KANISHKA SAXENA</sub>
+**Open to Full-Stack Development & AI/ML internship opportunities — let's build something together!**
 
 </div>
