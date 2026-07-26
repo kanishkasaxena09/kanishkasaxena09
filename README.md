@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header_animated.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/kanishkasaxena09/kanishkasaxena09@main/assets/header_animated.svg" width="100%"/>
 
 <br/>
 
@@ -112,8 +112,8 @@ AI platform analyzing leaf scans via a custom CNN for real-time diagnosis.
 ## ◆ Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkasaxena09&show_icons=true&hide_border=true&title_color=7873F5&icon_color=FF6EC4&text_color=555555&bg_color=00000000" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkasaxena09&hide_border=true&background=00000000&stroke=7873F5&ring=FF6EC4&fire=FF6EC4&currStreakLabel=7873F5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkasaxena09&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkasaxena09&hide_border=true&theme=tokyonight" height="165"/>
 </div>
 
 <br/>
