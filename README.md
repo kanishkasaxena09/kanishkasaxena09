@@ -1,111 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kanishka Saxena</title>
-<style>
-  body {
-    font-family: Arial, Helvetica, sans-serif;
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 0 20px;
-    line-height: 1.6;
-    color: #222;
-  }
-  h1 {
-    margin-bottom: 5px;
-  }
-  h2 {
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 6px;
-    margin-top: 40px;
-  }
-  .subtitle {
-    color: #555;
-    margin-top: 0;
-  }
-  ul {
-    padding-left: 20px;
-  }
-  .project {
-    margin-bottom: 20px;
-  }
-  .project h3 {
-    margin-bottom: 4px;
-  }
-  .project .tags {
-    color: #666;
-    font-size: 14px;
-  }
-  a {
-    color: #0b5ed7;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  code {
-    background: #f2f2f2;
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-size: 13px;
-  }
-</style>
-</head>
-<body>
+# Hi, I'm Kanishka Saxena 👋
 
-  <h1>Hi, I'm Kanishka Saxena 👋</h1>
-  <p class="subtitle">B.Tech CSE student (2024–2028) based in Bareilly, India. Full-stack developer with a growing focus on AI/ML, open to internship opportunities.</p>
+B.Tech CSE student (2024–2028) based in Bareilly, India. Full-stack developer with a growing focus on AI/ML, open to internship opportunities.
 
-  <h2>About Me</h2>
-  <p>I like building things end-to-end — from the frontend down to the AI models behind them. Currently learning agentic AI workflows and AWS Cloud, while working regularly with React, FastAPI, and TensorFlow/Keras.</p>
-  <ul>
-    <li>🔭 Currently building: AI-powered and agentic applications</li>
-    <li>🌱 Currently learning: Agentic AI workflows & AWS Cloud</li>
-    <li>💬 Ask me about: React, FastAPI, TensorFlow/Keras, or full-stack architecture</li>
-    <li>🤝 Open to collaborating on: AI-powered web apps & open-source projects</li>
-  </ul>
+## About Me
 
-  <h2>Tech Stack</h2>
-  <p><strong>Languages:</strong> JavaScript, Python, Java, Dart</p>
-  <p><strong>Frontend:</strong> React, Flutter, Tailwind CSS, HTML, CSS</p>
-  <p><strong>Backend & Databases:</strong> Node.js, FastAPI, MySQL, MongoDB</p>
-  <p><strong>AI / ML & Cloud:</strong> TensorFlow, Keras, OpenAI API, LangChain, AWS</p>
-  <p><strong>Tools:</strong> Git, GitHub, Figma</p>
+I like building things end-to-end — from the frontend down to the AI models behind them. Currently learning agentic AI workflows and AWS Cloud, while working regularly with React, FastAPI, and TensorFlow/Keras.
 
-  <h2>Projects</h2>
+- 🔭 Currently building: AI-powered and agentic applications
+- 🌱 Currently learning: Agentic AI workflows & AWS Cloud
+- 💬 Ask me about: React, FastAPI, TensorFlow/Keras, or full-stack architecture
+- 🤝 Open to collaborating on: AI-powered web apps & open-source projects
 
-  <div class="project">
-    <h3><a href="https://jigsaw-puzzle-hxchi2rx2-kgithub255-6562s-projects.vercel.app">AI Puzzle Quest</a></h3>
-    <p>Turns any uploaded photo into an interactive, playable jigsaw puzzle in real time.</p>
-    <p class="tags"><code>React</code> <code>CSS</code> <code>Vercel</code></p>
-  </div>
+## Tech Stack
 
-  <div class="project">
-    <h3>QuizMaster Pro</h3>
-    <p>AI-powered quiz app that generates questions dynamically based on topic and difficulty.</p>
-    <p class="tags"><code>React</code> <code>FastAPI</code> <code>OpenAI API</code></p>
-  </div>
+**Languages:** JavaScript, Python, Java, Dart
 
-  <div class="project">
-    <h3>Real-Time Bus Tracking System</h3>
-    <p>Live GPS tracking system with role-based dashboards for Admin, Driver, and User.</p>
-    <p class="tags"><code>React</code> <code>FastAPI</code> <code>Leaflet</code> <code>Tailwind CSS</code></p>
-  </div>
+**Frontend:** React, Flutter, Tailwind CSS, HTML, CSS
 
-  <div class="project">
-    <h3>Crop Disease Detection Tool</h3>
-    <p>AI platform analyzing leaf scans via a custom CNN model for real-time diagnosis.</p>
-    <p class="tags"><code>React</code> <code>FastAPI</code> <code>TensorFlow</code> <code>Keras</code> <code>MySQL</code></p>
-  </div>
+**Backend & Databases:** Node.js, FastAPI, MySQL, MongoDB
 
-  <h2>Connect</h2>
-  <p>LinkedIn: <a href="https://linkedin.com/in/kanishka-saxena09">kanishka-saxena09</a></p>
-  <p>Email: <a href="mailto:kanishka.saxena255@gmail.com">kanishka.saxena255@gmail.com</a></p>
-  <p>GitHub: <a href="https://github.com/kanishkasaxena09">kanishkasaxena09</a></p>
+**AI / ML & Cloud:** TensorFlow, Keras, OpenAI API, LangChain, AWS
 
-  <p>Open to Full-Stack Development & AI/ML internship opportunities — let's connect!</p>
+**Tools:** Git, GitHub, Figma
 
-</body>
-</html>
+## Projects
+
+**[AI Puzzle Quest](https://jigsaw-puzzle-hxchi2rx2-kgithub255-6562s-projects.vercel.app)**
+Turns any uploaded photo into an interactive, playable jigsaw puzzle in real time.
+`React` `CSS` `Vercel`
+
+**QuizMaster Pro**
+AI-powered quiz app that generates questions dynamically based on topic and difficulty.
+`React` `FastAPI` `OpenAI API`
+
+**Real-Time Bus Tracking System**
+Live GPS tracking system with role-based dashboards for Admin, Driver, and User.
+`React` `FastAPI` `Leaflet` `Tailwind CSS`
+
+**Crop Disease Detection Tool**
+AI platform analyzing leaf scans via a custom CNN model for real-time diagnosis.
+`React` `FastAPI` `TensorFlow` `Keras` `MySQL`
+
+## Connect
+
+- LinkedIn: [kanishka-saxena09](https://linkedin.com/in/kanishka-saxena09)
+- Email: kanishka.saxena255@gmail.com
+- GitHub: [kanishkasaxena09](https://github.com/kanishkasaxena09)
+
+Open to Full-Stack Development & AI/ML internship opportunities — let's connect!
