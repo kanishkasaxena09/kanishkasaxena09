@@ -1,159 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1DC,100:FF69B4&height=250&section=header&text=Hey,%20I'm%20Kanishka%20✨&fontSize=42&fontColor=4A004A&animation=twinkling&fontAlignY=42&desc=crafting%20AI%20magic%20%26%20full-stack%20experiences&descAlignY=62&descSize=17&descColor=4A004A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KANISHKA%20SAXENA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20·%20AI%20Engineer&descAlignY=62&descSize=16&descColor=fce4ec" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%97;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Turning+Photos+Into+Puzzles+%F0%9F%A7%A9;Turning+Ideas+Into+Products+%F0%9F%92%96" alt="Typing SVG" />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=D6336C&center=true&vCenter=true&width=600&lines=I+build+things+that+work%2C+not+just+run.;AI+%2B+full-stack+%2C+shipped+end-to-end.;Currently+deep+in+agentic+AI+%26+AWS." alt="Typing SVG" />
 
 <br/><br/>
-
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-2024--2028-FF69B4?style=for-the-badge&labelColor=4A004A" />
-<img src="https://img.shields.io/badge/📍_Bareilly-India-FF1493?style=for-the-badge&labelColor=4A004A" />
-<img src="https://img.shields.io/badge/🚀_Open_to-Internships-FFB6C1?style=for-the-badge&labelColor=4A004A" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/kanishka-saxena09">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C71585" />
-</a>
-<a href="mailto:kanishka.saxena255@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-FF1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C71585" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kanishkasaxena09&style=for-the-badge&color=FF69B4&label=Profile+Visitors" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"/>
-
-## 💌 A Little About Me
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-I'm a Computer Science student who turns caffeine and curiosity into real, working products 🩷 — from full-stack web apps to AI tools that solve actual problems. I learn best by *building*, not just reading docs.
-
-&nbsp;&nbsp;🔭&nbsp; Currently building **AI-powered & agentic applications**
-&nbsp;&nbsp;🌱&nbsp; Currently learning **Agentic AI workflows & AWS Cloud**
-&nbsp;&nbsp;💬&nbsp; Ask me about **React, FastAPI, TensorFlow/Keras**
-&nbsp;&nbsp;🤝&nbsp; Down to collaborate on **AI web apps & open source**
-&nbsp;&nbsp;🎀&nbsp; Fun fact: **I turn photos into jigsaw puzzles**
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎀 My Toolkit
-
-<div align="center">
 
 <table>
 <tr>
-<th>💻 Languages</th>
-<th>🎨 Frontend</th>
-<th>⚙️ Backend & Data</th>
-<th>🧠 AI / ML & Cloud</th>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js,py,java,dart&theme=light" /><br/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,html,css&theme=light" />
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,mongodb&theme=light" />
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,aws&theme=light" /><br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-FF69B4?style=flat-square&logo=chainlink&logoColor=white" />
-</td>
+<td align="center">🎓<br/><sub><b>B.Tech CSE</b></sub><br/><sub>2024 – 2028</sub></td>
+<td align="center">📍<br/><sub><b>Bareilly</b></sub><br/><sub>India</sub></td>
+<td align="center">🚀<br/><sub><b>Open to</b></sub><br/><sub>Internships</sub></td>
+<td align="center">🧠<br/><sub><b>Focus</b></sub><br/><sub>AI / Full-Stack</sub></td>
 </tr>
 </table>
+
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-D6336C?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-saxena09)
+[![Email](https://img.shields.io/badge/-Send_an_Email-AD1457?style=flat-square&logo=gmail&logoColor=white)](mailto:kanishka.saxena255@gmail.com)
+[![GitHub](https://img.shields.io/badge/-View_GitHub-880E4F?style=flat-square&logo=github&logoColor=white)](https://github.com/kanishkasaxena09)
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"/>
+<table width="100%">
+<tr>
+<td width="100%">
 
-## 🌸 Featured Projects
+### ✎ About
+
+I'm a CS student who'd rather build the thing than read another tutorial about it. Most of what I know came from shipping full projects end-to-end — frontend, backend, and the AI layer in between — and figuring out the gaps as they showed up.
+
+Right now I'm deep in **agentic AI workflows** and **AWS**, while staying hands-on with **React, FastAPI, and TensorFlow/Keras**. I like problems where the interesting part isn't the model — it's making the whole system actually usable.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
+
+### ◆ Stack
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top" align="center">
+
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,py,java,dart" />
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,html,css" />
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**Backend / Data**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,mongodb" />
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**AI / Cloud**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,aws,opencv" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### ◆ Projects
+
+</div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 [AI Puzzle Quest](https://jigsaw-puzzle-hxchi2rx2-kgithub255-6562s-projects.vercel.app)
-<img src="https://img.shields.io/badge/status-live-FF69B4?style=flat-square"/>
-
-Turns any uploaded photo into an interactive, playable jigsaw puzzle in real time.
-
-<img src="https://img.shields.io/badge/React.js-FF69B4?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-FF1493?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-C71585?style=flat-square&logo=vercel&logoColor=white"/>
+**🧩 [AI Puzzle Quest](https://jigsaw-puzzle-hxchi2rx2-kgithub255-6562s-projects.vercel.app)**
+<br/>
+Uploads a photo, generates a playable jigsaw puzzle from it in real time.
+<br/><br/>
+<sub>`React` `CSS` `Vercel`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 QuizMaster Pro
-<img src="https://img.shields.io/badge/status-shipped-FF69B4?style=flat-square"/>
-
-AI-powered quiz app that generates questions dynamically by topic & difficulty.
-
-<img src="https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-FF1493?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-C71585?style=flat-square&logo=openai&logoColor=white"/>
+**🧠 QuizMaster Pro**
+<br/>
+Generates quiz questions on the fly based on topic and difficulty using an LLM.
+<br/><br/>
+<sub>`React` `FastAPI` `OpenAI API`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚌 Real-Time Bus Tracking System
-<img src="https://img.shields.io/badge/status-shipped-FF69B4?style=flat-square"/>
-
-Live GPS tracking with role-based dashboards for Admin, Driver & User.
-
-<img src="https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-FF1493?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Leaflet-C71585?style=flat-square&logo=leaflet&logoColor=white"/>
+**🚌 Real-Time Bus Tracking System**
+<br/>
+Live GPS tracking with separate dashboards for Admin, Driver, and User roles.
+<br/><br/>
+<sub>`React` `FastAPI` `Leaflet` `Tailwind`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌾 Crop Disease Detection Tool
-<img src="https://img.shields.io/badge/status-shipped-FF69B4?style=flat-square"/>
-
-AI platform analyzing leaf scans via a custom CNN for real-time diagnosis.
-
-<img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-FF1493?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-C71585?style=flat-square&logo=mysql&logoColor=white"/>
+**🌾 Crop Disease Detection Tool**
+<br/>
+Custom CNN diagnoses crop disease from leaf scans in real time.
+<br/><br/>
+<sub>`TensorFlow` `Keras` `FastAPI` `MySQL`</sub>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"/>
-
-## 📈 Stats & Streaks
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkasaxena09&show_icons=true&theme=blueberry&hide_border=true&count_private=true&title_color=FF1493&icon_color=FF69B4&text_color=4A004A&bg_color=FFF0F5" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkasaxena09&theme=blueberry&hide_border=true&background=FFF0F5&stroke=FF69B4&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" width="49%"/>
+### ◆ Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkasaxena09&show_icons=true&hide_border=true&title_color=D6336C&icon_color=D6336C&text_color=444444&bg_color=00000000" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkasaxena09&hide_border=true&background=00000000&stroke=D6336C&ring=D6336C&fire=D6336C&currStreakLabel=D6336C" height="165"/>
 
 </div>
 
@@ -161,10 +146,8 @@ AI platform analyzing leaf scans via a custom CNN for real-time diagnosis.
 
 <div align="center">
 
-### 💗 Open to Full-Stack Development & AI/ML internships — let's create something people love!
+**Open to Full-Stack & AI/ML internship opportunities — let's talk.**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF69B4,100:FFD1DC&height=120&section=footer" width="100%"/>
-
-<i>made with 🩷 by <a href="https://github.com/kanishkasaxena09">kanishkasaxena09</a></i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
